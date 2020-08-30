@@ -14,9 +14,9 @@ import (
 	"time"
 )
 
-const POOLID = "paulainsley1betanet.stakehouse.betanet"
+const POOLID = "stakewarspools.fuckit.betanet"
 const NETWORK = "betanet"
-const ACCOUNTID = "paulainsley1.betanet"
+const ACCOUNTID = "fuckit.betanet"
 const UPPER_BID_THRESHOLD = 1.8
 const LOWER_BID_THRESHOLD = 1.1
 const SEAT_PRICE_PERCENTAGE = 1.3
